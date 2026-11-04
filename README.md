@@ -1,18 +1,30 @@
-## Salut, moi c'est Rémy
+<h2 align="center">Hi, I'm Rémy</h2>
 
-Étudiant en **Master 1 à l'ISEN (Junia)**.
-J'aime construire des applications web de bout en bout, de l'API à l'interface.
+<p align="center">
+  Computer science student (M1) at ISEN · Junia, France<br>
+  Full-stack web development · AI agents · Automation
+</p>
 
-### Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,sqlite,docker,git,linux,obsidian&perline=11" alt="Tech stack">
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### About me
 
-### À voir
+- I build web applications end to end, from typed REST APIs to clean React interfaces.
+- I design workflows where specialised AI agents plan, build, test and review code, with a human keeping the final say.
+- I like automating repetitive work: scripts, data syncs and dashboards that make daily work simpler.
+- I keep a structured knowledge base so decisions and lessons learned are never lost.
 
-**[m1-web-exam](https://github.com/Remy-Agez/m1-web-exam)** : magasin de vélos avec une API REST NestJS + TypeORM et un front React + Ant Design (pagination, CRUD complet, tests e2e).
+### Skills
+
+| Area | Tools and practices |
+| --- | --- |
+| Web | TypeScript, React, Next.js, NestJS, REST APIs, TypeORM, SQLite |
+| AI & automation | Claude Code, multi-agent workflows, prompt design, Node.js scripting |
+| Quality | Unit and end-to-end testing, code review, clean Git history |
+| Also explored | Docker, Kubernetes basics, web server hardening, Solidity smart contracts |
+
+### Languages
+
+French (native) · English
