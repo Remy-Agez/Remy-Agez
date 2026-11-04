@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer science student (M1) at ISEN · Junia, France<br>
-  Full-stack web development · AI agents · Automation
+  Full-stack web development · Automation
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ### About me
 
 - I build web applications end to end, from typed REST APIs to clean React interfaces.
-- I design workflows where specialised AI agents plan, build, test and review code, with a human keeping the final say.
+- I care about code quality: tests, reviews and a readable Git history.
 - I like automating repetitive work: scripts, data syncs and dashboards that make daily work simpler.
 - I keep a structured knowledge base so decisions and lessons learned are never lost.
 
@@ -21,8 +21,8 @@
 | Area | Tools and practices |
 | --- | --- |
 | Web | TypeScript, React, Next.js, NestJS, REST APIs, TypeORM, SQLite |
-| AI & automation | Claude Code, multi-agent workflows, prompt design, Node.js scripting |
-| Quality | Unit and end-to-end testing, code review, clean Git history |
+| Tooling & automation | Node.js scripting, data syncs, Markdown documentation, VS Code |
+| Quality | Unit and end-to-end testing, code review, Git workflow |
 | Also explored | Docker, Kubernetes basics, web server hardening, Solidity smart contracts |
 
 ### Languages
